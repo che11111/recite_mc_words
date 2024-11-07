@@ -4,4 +4,4 @@
 
 单词读音调用了有道的API
 
-[!](images/1.png)
+![示例](images/1.png)
